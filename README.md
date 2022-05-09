@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brufro
+- 👋 Hi, I’m Bruno Cadilhe.
 - 👀 I’m interested in ... learning how to code.
 - 🌱 I’m currently learning ... javascript.
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
